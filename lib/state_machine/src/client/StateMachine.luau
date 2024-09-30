@@ -1,4 +1,5 @@
 --!optimize 2
+--!strict
 
 local StateMachine = {}
 StateMachine.__index = StateMachine

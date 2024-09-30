@@ -1,3 +1,3 @@
-# Roblox FSM
+# Roblox Learning Resource
 
-A little tutorial on finite-state machine.
+Just a learning resource for Roblox developers.
