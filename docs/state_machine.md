@@ -32,8 +32,6 @@ Example:
 4. Update state: If the transition is valid, the FSM changes to the new state.
 5. Repeat: The FSM continues to monitor inputs and process transitions.
 
-## Examples
-- [Roblox]()
-
+[Examples](https://github.com/alpluspluss/roblox-fsm-tutorial/blob/main/file/state_machine.rbxl)
 
 ##### Note: This article is written by ChatGPT and revised by [Al](https://github.com/alpluspluss)
